@@ -1,0 +1,21 @@
+{
+    "database": {
+        "host": "",
+        "user": "root",
+        "password": "",
+        "database": ""
+    },
+    "server": {
+        "port": 8000,
+        "host": "",
+        "jwtSecret": "",
+        "password": "",
+        "user": ""
+    },
+    "bgc_auth": {
+        "x-auth-token": "",
+        "x-auth-client": "",
+        "store-hash": "",
+        "apiURL": "https://api.bigcommerce.com/stores/"
+    }
+}

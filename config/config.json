@@ -1,0 +1,15 @@
+{
+  "database": {
+    "host": "",
+    "user": "root",
+    "password": "",
+    "database": ""
+  },
+  "server": {
+    "port": 8000,
+    "host": "",
+    "jwtSecret": "random-secret-password",
+    "password": "",
+    "user": ""
+  }
+}
